@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/hyun-jip/zivi_movie/static/css/main.d65089c5.chunk.css",
-    "main.js": "/hyun-jip/zivi_movie/static/js/main.202901db.chunk.js",
-    "main.js.map": "/hyun-jip/zivi_movie/static/js/main.202901db.chunk.js.map",
-    "runtime-main.js": "/hyun-jip/zivi_movie/static/js/runtime-main.cd35b111.js",
-    "runtime-main.js.map": "/hyun-jip/zivi_movie/static/js/runtime-main.cd35b111.js.map",
-    "static/js/2.142e6cb3.chunk.js": "/hyun-jip/zivi_movie/static/js/2.142e6cb3.chunk.js",
-    "static/js/2.142e6cb3.chunk.js.map": "/hyun-jip/zivi_movie/static/js/2.142e6cb3.chunk.js.map",
-    "index.html": "/hyun-jip/zivi_movie/index.html",
-    "static/css/main.d65089c5.chunk.css.map": "/hyun-jip/zivi_movie/static/css/main.d65089c5.chunk.css.map",
-    "static/js/2.142e6cb3.chunk.js.LICENSE.txt": "/hyun-jip/zivi_movie/static/js/2.142e6cb3.chunk.js.LICENSE.txt"
+    "main.css": "/zivi_movie/static/css/main.d65089c5.chunk.css",
+    "main.js": "/zivi_movie/static/js/main.202901db.chunk.js",
+    "main.js.map": "/zivi_movie/static/js/main.202901db.chunk.js.map",
+    "runtime-main.js": "/zivi_movie/static/js/runtime-main.650a4507.js",
+    "runtime-main.js.map": "/zivi_movie/static/js/runtime-main.650a4507.js.map",
+    "static/js/2.142e6cb3.chunk.js": "/zivi_movie/static/js/2.142e6cb3.chunk.js",
+    "static/js/2.142e6cb3.chunk.js.map": "/zivi_movie/static/js/2.142e6cb3.chunk.js.map",
+    "index.html": "/zivi_movie/index.html",
+    "static/css/main.d65089c5.chunk.css.map": "/zivi_movie/static/css/main.d65089c5.chunk.css.map",
+    "static/js/2.142e6cb3.chunk.js.LICENSE.txt": "/zivi_movie/static/js/2.142e6cb3.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.cd35b111.js",
+    "static/js/runtime-main.650a4507.js",
     "static/js/2.142e6cb3.chunk.js",
     "static/css/main.d65089c5.chunk.css",
     "static/js/main.202901db.chunk.js"
